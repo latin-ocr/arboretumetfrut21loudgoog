@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arboretumetfrut21loudgoog_0375.png"; bbox 0 0 875 1369; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 120 115 703 136">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 120 115 703 136">
+     <span class='ocr_line' id='line_1_1' title="bbox 120 115 703 136; baseline -0.01 0"><span class='ocrx_word' id='word_1_1' title='bbox 120 124 170 136; x_wconf 71' lang='lat' dir='ltr'>cun.</span> <span class='ocrx_word' id='word_1_2' title='bbox 182 123 219 135; x_wconf 74' lang='lat'>0111.</span> <span class='ocrx_word' id='word_1_3' title='bbox 327 117 430 134; x_wconf 33' lang='lat' dir='ltr'>numum*</span> <span class='ocrx_word' id='word_1_4' title='bbox 455 116 513 132; x_wconf 74' lang='grc' dir='ltr'>ςΛἾ-υι.</span> <span class='ocrx_word' id='word_1_5' title='bbox 664 115 703 130; x_wconf 74' lang='grc'><strong>1621</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 239 159 624 180">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 239 159 624 180">
+     <span class='ocr_line' id='line_1_2' title="bbox 239 159 624 180; baseline -0.01 -4"><span class='ocrx_word' id='word_1_6' title='bbox 239 161 246 180; x_wconf 79' lang='lat'>§</span> <span class='ocrx_word' id='word_1_7' title='bbox 252 162 270 175; x_wconf 77' lang='lat' dir='ltr'>iii.</span> <span class='ocrx_word' id='word_1_8' title='bbox 277 160 426 176; x_wconf 58' lang='lat' dir='ltr'>nmfinm.—Leam</span> <span class='ocrx_word' id='word_1_9' title='bbox 432 160 450 173; x_wconf 71' lang='lat' dir='ltr'>au</span> <span class='ocrx_word' id='word_1_10' title='bbox 455 160 508 177; x_wconf 65' lang='lat' dir='ltr'>mam.</span> <span class='ocrx_word' id='word_1_11' title='bbox 514 159 562 177; x_wconf 63' lang='lat' dir='ltr'>wally.</span> <span class='ocrx_word' id='word_1_12' title='bbox 568 163 583 172; x_wconf 68' lang='grc' dir='ltr'><em>ω</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 588 159 624 176; x_wconf 55' lang='grc' dir='ltr'>,πμ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 388 196 457 206">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 388 196 457 206">
+     <span class='ocr_line' id='line_1_3' title="bbox 388 196 457 206; baseline -0.014 0"><span class='ocrx_word' id='word_1_14' title='bbox 388 196 457 206; x_wconf 62' lang='lat' dir='ltr'>snmus.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 409 1265 455 1279">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 409 1265 455 1279">
+     <span class='ocr_line' id='line_1_4' title="bbox 409 1265 455 1279; baseline -0.022 0"><span class='ocrx_word' id='word_1_15' title='bbox 409 1265 455 1279; x_wconf 59' lang='lat'>52¹4</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

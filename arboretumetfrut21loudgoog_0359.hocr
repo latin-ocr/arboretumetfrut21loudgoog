@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arboretumetfrut21loudgoog_0359.png"; bbox 0 0 875 1369; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 138 111 709 128">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 138 111 709 128">
+     <span class='ocr_line' id='line_1_1' title="bbox 138 111 709 128; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 138 115 188 127; x_wconf 62' lang='lat' dir='ltr'>cunr.</span> <span class='ocrx_word' id='word_1_2' title='bbox 196 116 232 127; x_wconf 82' lang='lat' dir='ltr'>cm.</span> <span class='ocrx_word' id='word_1_3' title='bbox 328 111 433 127; x_wconf 65' lang='lat' dir='ltr'>nmen&#39;cm.</span> <span class='ocrx_word' id='word_1_4' title='bbox 455 111 514 127; x_wconf 47' lang='lat' dir='ltr'>ufiux.</span> <span class='ocrx_word' id='word_1_5' title='bbox 668 113 709 128; x_wconf 79' lang='lat'><strong>1605</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 231 154 624 192">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 231 154 624 192">
+     <span class='ocr_line' id='line_1_2' title="bbox 231 154 624 173; baseline 0 -5"><span class='ocrx_word' id='word_1_6' title='bbox 231 155 240 172; x_wconf 68' lang='grc' dir='ltr'>ς</span> <span class='ocrx_word' id='word_1_7' title='bbox 245 154 254 168; x_wconf 72' lang='grc' dir='ltr'>ε.</span> <span class='ocrx_word' id='word_1_8' title='bbox 260 154 337 168; x_wconf 71' lang='lat' dir='ltr'>continued.</span> <span class='ocrx_word' id='word_1_9' title='bbox 340 154 396 167; x_wconf 67' lang='lat' dir='ltr'><em>-Aduu</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 402 154 452 168; x_wconf 61' lang='lat' dir='ltr'>zeum</span> <span class='ocrx_word' id='word_1_11' title='bbox 457 155 518 172; x_wconf 58' lang='lat' dir='ltr'>mm,</span> <span class='ocrx_word' id='word_1_12' title='bbox 524 155 568 173; x_wconf 62' lang='lat' dir='ltr'>may</span> <span class='ocrx_word' id='word_1_13' title='bbox 573 155 624 168; x_wconf 52' lang='lat' dir='ltr'>twa.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 335 181 501 192; baseline 0.006 -1"><span class='ocrx_word' id='word_1_14' title='bbox 335 181 385 191; x_wconf 71' lang='lat' dir='ltr'>nnn·</span> <span class='ocrx_word' id='word_1_15' title='bbox 391 181 421 191; x_wconf 75' lang='lat' dir='ltr'>nu&gt;</span> <span class='ocrx_word' id='word_1_16' title='bbox 428 182 501 192; x_wconf 71' lang='lat' dir='ltr'>Wlumvs.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
